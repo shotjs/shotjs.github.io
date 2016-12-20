@@ -1,0 +1,11 @@
+body {
+	background: #d8d8d8;
+	text-align: center;
+}
+
+img {
+	left: 50%;
+	position: fixed;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
