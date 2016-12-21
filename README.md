@@ -1,0 +1,2 @@
+# shotjs.github.io
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/93522102f79f410b933e5c677e37f6f3)](https://www.codacy.com/app/shotjs/shotjs-github-io?utm_source=github.com&utm_medium=referral&utm_content=shotjs/shotjs.github.io&utm_campaign=badger)
